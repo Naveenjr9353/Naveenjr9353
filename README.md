@@ -15,6 +15,23 @@
 
 ---
 
+### 🧠 Currently Learning
+
+- 🔐 Spring Security & JWT Authentication  
+- ⚛️ React.js for Frontend  
+- 🌐 RESTful API Design  
+- ☁️ AWS Deployment (EC2, S3)
+
+---
+
+### 📜 Certifications
+
+- ✅ Java Programming – Great Learning  
+- ✅ SQL for Data Management – Coursera  
+- ✅ Web Development Bootcamp – Udemy  
+
+---
+
 ### 🔧 Tech Stack
 
 <p align="center">
@@ -25,13 +42,21 @@
 
 ### 🚀 Projects
 
-#### ✋ Hand Gesture Recognition System
+#### ✋ Hand Gesture Recognition System  
 > **Tech Stack**: Python, OpenCV, HTML, CSS  
-> 🧠 Developed a real-time gesture-based interaction system for enhanced accessibility.
+> 🧠 Real-time gesture recognition system for accessible user interaction.
 
 #### 🎬 Movie Database Management System  
 > **Tech Stack**: PHP, MySQL, HTML, CSS  
-> 🎯 Built a full CRUD-enabled platform to manage movies, actors, and genre metadata.
+> 🎯 Full CRUD-based app to manage movie records and user interaction.
+
+---
+
+### 🛠️ Tools & IDEs I Use
+
+- 🖥️ IntelliJ IDEA, Eclipse, VS Code  
+- 🧪 Postman, MySQL Workbench  
+- 🔧 Git, GitHub, XAMPP  
 
 ---
 
@@ -48,16 +73,20 @@
 
 ---
 
-### 🧰 Languages & Tools
+### 📌 Pinned Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+> Use the GitHub UI to pin your best repositories like:
+- `Hand-Gesture-Recognition`
+- `Movie-DBMS`
+- `SpringBoot-CRUD-App`  
+- `Portfolio-Website`
+
+---
+
+### 🌐 Portfolio & Resume
+
+- 📄 [View My Resume](https://drive.google.com/file/d/your-resume-link/view)  
+- 🌐 [Visit My Portfolio Website](https://yourwebsite.com)
 
 ---
 
